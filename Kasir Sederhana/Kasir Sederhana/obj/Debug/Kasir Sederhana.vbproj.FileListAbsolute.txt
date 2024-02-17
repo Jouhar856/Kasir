@@ -1,0 +1,14 @@
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\bin\Debug\Kasir Sederhana.exe.config
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\bin\Debug\Kasir Sederhana.exe
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\bin\Debug\Kasir Sederhana.pdb
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\bin\Debug\Kasir Sederhana.xml
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\obj\Debug\Kasir_Sederhana.Form1.resources
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\obj\Debug\Kasir_Sederhana.Resources.resources
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\obj\Debug\Kasir Sederhana.vbproj.GenerateResource.cache
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\obj\Debug\Kasir Sederhana.vbproj.CoreCompileInputs.cache
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\obj\Debug\Kasir Sederhana.exe
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\obj\Debug\Kasir Sederhana.xml
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\obj\Debug\Kasir Sederhana.pdb
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\obj\Debug\Kasir_Sederhana.Form2.resources
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\obj\Debug\Kasir Sederhana.vbproj.AssemblyReference.cache
+D:\Project\Visual Studio\Kasir Sederhana\Kasir Sederhana\obj\Debug\Kasir Sederhana.vbproj.SuggestedBindingRedirects.cache
